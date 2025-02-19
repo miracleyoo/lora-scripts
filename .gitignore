@@ -28,3 +28,4 @@ tests/
 
 huggingface/hub/models*
 huggingface/hub/version_diffusers_cache.txt
+huggingface/hub/.locks
